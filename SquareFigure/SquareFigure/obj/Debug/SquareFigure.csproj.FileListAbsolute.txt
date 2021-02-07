@@ -1,0 +1,5 @@
+C:\Users\semen\source\repos\SquareFigure\SquareFigure\bin\Debug\SquareFigure.dll
+C:\Users\semen\source\repos\SquareFigure\SquareFigure\bin\Debug\SquareFigure.pdb
+C:\Users\semen\source\repos\SquareFigure\SquareFigure\obj\Debug\SquareFigure.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\SquareFigure\SquareFigure\obj\Debug\SquareFigure.dll
+C:\Users\semen\source\repos\SquareFigure\SquareFigure\obj\Debug\SquareFigure.pdb
