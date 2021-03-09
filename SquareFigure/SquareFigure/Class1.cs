@@ -29,10 +29,12 @@ namespace SquareFigure
 			p = 2 * (a + b);
 			s = a * b;
 		}
+	    //Координаты x y указываем через пробел, пары координат разделяем запятой, например 0 0,0 4,3 0
 		/// <summary>
 		/// площадь фигуры
 		/// </summary>
 		/// <param name="r">координаты точек</param>
+	    
 		public Figure(string str)
 		{
 			string[] strOfPoints = str.Split(',');
